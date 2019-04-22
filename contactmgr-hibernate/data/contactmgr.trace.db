@@ -1,0 +1,18 @@
+2019-04-21 19:12:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTACT" not found; SQL statement:
+insert into Contact (id, email, firstname, lastname, phone) values (null, ?, ?, ?, ?) [42102-191]
+2019-04-21 19:12:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTACT" not found; SQL statement:
+insert into Contact (id, email, firstname, lastname, phone) values (null, ?, ?, ?, ?) [42102-191]
+2019-04-21 19:15:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTACT" not found; SQL statement:
+insert into Contact (id, email, firstname, lastname, phone) values (null, ?, ?, ?, ?) [42102-191]
+2019-04-21 19:15:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTACT" not found; SQL statement:
+insert into Contact (id, email, firstname, lastname, phone) values (null, ?, ?, ?, ?) [42102-191]
+2019-04-21 19:18:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTACT" not found; SQL statement:
+insert into Contact (id, email, firstName, lastName, phone) values (null, ?, ?, ?, ?) [42102-191]
+2019-04-21 19:18:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTACT" not found; SQL statement:
+insert into Contact (id, email, firstName, lastName, phone) values (null, ?, ?, ?, ?) [42102-191]
